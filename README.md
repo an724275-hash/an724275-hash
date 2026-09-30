@@ -22,11 +22,9 @@
 
 ### На GitHub
 
-<table>
-  <tr>
-    <td><img src="assets/languages.svg" alt="Языки в публичных репозиториях по объёму кода" width="430"></td>
-    <td><img src="assets/overview.svg" alt="Количество публичных проектов, звёзд и основных языков" width="430"></td>
-  </tr>
-</table>
+<p>
+  <img src="assets/languages.svg" alt="Языки в публичных репозиториях по объёму кода" width="420">
+  <img src="assets/overview.svg" alt="Количество публичных проектов, звёзд и основных языков" width="420">
+</p>
 
 Карточки строятся из [публичных данных GitHub API](https://docs.github.com/en/rest/repos/repos#list-repositories-for-a-user). В статистику входят мои публичные репозитории, кроме форков, архивов и этого профиля. Доли языков отражают объём кода, а не уровень владения языком. [Скрипт обновления](tools/update_stats.py) запускается автоматически раз в неделю.
