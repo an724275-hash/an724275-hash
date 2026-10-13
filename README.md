@@ -12,6 +12,7 @@ Python / Django backend-разработчик. В заказной разраб
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" title="Go" width="40" height="40" />
   <img src="https://skillicons.dev/icons?i=django&amp;theme=dark" alt="Django" title="Django" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40" />
@@ -23,7 +24,7 @@ Python / Django backend-разработчик. В заказной разраб
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=an724275-hash&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact" alt="Наиболее используемые языки в публичных репозиториях" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=an724275-hash&amp;show_icons=true&amp;theme=dark&amp;locale=en&amp;layout=compact&amp;langs_count=10" alt="Наиболее используемые языки в публичных репозиториях" width="300" />
   <img src="https://github-readme-stats.vercel.app/api?username=an724275-hash&amp;show_icons=true&amp;theme=dark&amp;locale=en" alt="Статистика публичного профиля GitHub" height="170" />
 </p>
 
